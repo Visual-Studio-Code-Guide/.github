@@ -1,4 +1,5 @@
 # Visual Studio Code for macOS — Fast One-Command Setup
+![logo](https://code.visualstudio.com/assets/apple-touch-icon.png)
 
 Visual Studio Code (VS Code) is a lightweight yet powerful code editor for macOS.  
 This guide shows how to install it safely and quickly—using official sources only—with a single command.
